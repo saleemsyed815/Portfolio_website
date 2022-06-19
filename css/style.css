@@ -830,7 +830,7 @@ footer a {
 
     .nav-close-btn {
         position: absolute;
-        background: url(../images/close-btn.png) no repeat;
+        background: url(../images/close-button.png) no-repeat;
         filter: var(--color-filter);
         background-size: 12px;
         width: 40px;
@@ -863,8 +863,6 @@ footer a {
         width: 100%;
         row-gap: 20px;
     }
-
-
 
     .about-info {
         min-width: 0;
